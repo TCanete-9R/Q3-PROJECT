@@ -3,12 +3,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #FAD0C4;
+    background-color: #F2B28C;
 }
 
 /* Navbar */
 nav {
-    background-color: #C599B6;
+    background-color: #B82132;
     padding: 15px;
     display: flex;
     justify-content: space-between;
